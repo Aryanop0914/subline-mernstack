@@ -84,12 +84,12 @@ The backend is implemented using Express.js for handling routes and APIs.
 
 1. Clone this repository.
 2. Navigate to the project directory.
-3. Install dependencies using `npm install` or `yarn install`.
+3. Install dependencies using `npm install`.
 
 ### Running the Application
 
-1. Start the backend server: `npm run server` or `yarn server`.
-2. Start the frontend development server: `npm start` or `yarn start`.
+1. Start the backend server: `npm run server`.
+2. Start the frontend development server: `npm run dev`.
 
 ---
 
@@ -97,6 +97,6 @@ The backend is implemented using Express.js for handling routes and APIs.
 
 This project serves as a pre-screening assessment for Full-Time positions at Sublime Data Systems Private Limited. It demonstrates the ability to implement both frontend and backend components for managing customer data effectively.
 
-For any inquiries or assistance, please contact [your name or email].
+For any inquiries or assistance, please contact patelaryan0914@gmail.com.
 
 ---
